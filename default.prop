@@ -14,7 +14,7 @@ debug.atrace.tags.enableflags=0
 #
 # BOOTIMAGE_BUILD_PROPERTIES
 #
-ro.bootimage.build.date=Tue Nov 3 04:58:04 CST 2015
-ro.bootimage.build.date.utc=1446548284
-ro.bootimage.build.fingerprint=motorola/clark_retus/clark:6.0/MPH24.49-18/18:user/release-keys
+ro.bootimage.build.date=Sat Jan 30 14:26:55 CST 2016
+ro.bootimage.build.date.utc=1454185615
+ro.bootimage.build.fingerprint=motorola/clark_retus/clark:6.0/MPHS24.49-18-3/3:user/release-keys
 
